@@ -9,7 +9,7 @@ Model | Test Accuracy
 ---|---|
 Teacher Net | 99.16%
 Student Net | 98.32%
-**Student Net with KD** |98.48   
+**Student Net with KD** |98.48%  
 
 ## References
 
