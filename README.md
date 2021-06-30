@@ -7,9 +7,9 @@ This project is a implementation of Knowledge distillation on Mnist dataset.
 
 Model | Test Accuracy
 ---|---|
-Teacher Net | 98.84%
-Student Net | 98.23%
-**Student Net with KD** |   
+Teacher Net | 99.16%
+Student Net | 98.32%
+**Student Net with KD** |98.48%  
 
 ## References
 
